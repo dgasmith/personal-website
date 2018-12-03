@@ -4,7 +4,7 @@ date = 2016-01-01
 authors = ["Daniel GA Smith", "Lori A Burns", "Konrad Patkowski", "C David Sherrill"]
 publication_types = ["2"]
 abstract = ""
-selected = false
+selected = true
 publication = "*The journal of physical chemistry letters*"
 +++
 
