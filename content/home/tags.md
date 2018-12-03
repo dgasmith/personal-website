@@ -1,4 +1,4 @@
-+++
+:c
 # Tag Cloud widget.
 widget = "tag_cloud"
 active = true
